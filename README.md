@@ -1,10 +1,10 @@
-# 📊 DataQuery — Conversational Data Analysis with LLMs
+#  DataQuery — Conversational Data Analysis with LLMs
 
 DataQuery is an intuitive, Streamlit-based web application that lets you upload or connect datasets and ask questions using natural language. Powered by state-of-the-art large language models (LLMs) like **Google Gemini** and **Groq (LLaMA)**, it provides AI-driven insights on your data in real-time.
 
 ---
 
-## ✅ Prerequisites
+##  Prerequisites
 
 Before setting up the application, ensure you have the following installed on your system:
 
@@ -14,7 +14,7 @@ Before setting up the application, ensure you have the following installed on yo
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the application locally:
 
@@ -80,7 +80,7 @@ GROQ_API_KEY=your_groq_api_key
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 After setup, your project directory should look like this:
 
@@ -95,7 +95,7 @@ project-folder/
 
 ---
 
-## 🧠 How to Run the Application
+## How to Run the Application
 
 Once everything is set up, launch the app by running the following command in your terminal:
 
@@ -107,12 +107,10 @@ Make sure your terminal is pointed to the project’s root directory when execut
 
 ---
 
-## 🎉 You're All Set!
+##  You're All Set!
 
 The application will open in your default browser. Start uploading datasets or connect your MySQL database and begin querying with natural language!
 
 ---
 
-## 📬 Feedback & Contributions
 
-Feel free to open issues or pull requests. Contributions are welcome!
